@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to RST Forum!!! </h1>
-<h2> CI/CD pipeline using Git, Maven, Jenkins, Tomcat </h2>
-<h3> Congratulations !!! </h3>
+<body bgcolor=yellow>
+<marquee><h1><font color=black> Congratulation!!! Your first CI/CD project using Git, Github, Jenkins, Maven, Tomcat is successfully running!!!
